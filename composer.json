@@ -1,0 +1,18 @@
+{
+  "name": "autodto/helper",
+  "description": "Autoload a DTO object for a method",
+  "version": "1.0.1",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "AutoDTO\\Helper\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "AutoDTO\\Helper\\AutoDTOServiceProvider"
+      ]
+    }
+  }
+}
