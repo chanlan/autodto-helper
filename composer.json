@@ -1,7 +1,7 @@
 {
   "name": "autodto/helper",
   "description": "Autoload a DTO object for a method",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "type": "library",
   "autoload": {
     "psr-4": {
