@@ -7,7 +7,7 @@
 composer require autodto/helper:1.0.0 --prefer-dist 
 ```
 #### 2. 示例代码
- * 自定义DTO
+ * 自定义DTO：需要实现扩展包中的DTO接口
 ```php  
 <?php
 
