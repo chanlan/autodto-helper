@@ -2,7 +2,7 @@
 
 namespace AutoDTO\Helper;
 
-use \App\Http\Middleware\AutoDTOBinderMiddleware;
+use AutoDTO\Helper\Http\Middleware\AutoDTOBinderMiddleware;
 use Illuminate\Support\ServiceProvider;
 
 class AutoDTOServiceProvider extends ServiceProvider
