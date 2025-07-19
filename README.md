@@ -13,7 +13,7 @@ composer require autodto/helper:1.0.0 --prefer-dist
 
 namespace App\Models\DTO;
 
-use AutoDTO\Helper\Model\DTO\DTO;
+use AutoDTO\Helper\Models\DTO;
 
 class UserDTO implements DTO
 {
