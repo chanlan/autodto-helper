@@ -2,7 +2,7 @@
 
 namespace AutoDTO\Helper\Http\Middleware;
 
-use AutoDTO\Helper\Model\DTO\DTO;
+use AutoDTO\Helper\Models\DTO;
 use Closure;
 use Illuminate\Http\Request;
 use ReflectionClass;
